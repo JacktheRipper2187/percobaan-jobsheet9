@@ -5,8 +5,8 @@ public class LinearSearch22 {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Masukkan jumlah elemen array : ");
+        
         int n = sc.nextInt();
-  
         int arrayInt[] = new int[n];
 
         for (int i = 0; i < n; i++) {
